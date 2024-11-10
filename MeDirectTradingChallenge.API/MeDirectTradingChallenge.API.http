@@ -1,0 +1,6 @@
+@MeDirectTradingChallenge.API_HostAddress = http://localhost:5095
+
+GET {{MeDirectTradingChallenge.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

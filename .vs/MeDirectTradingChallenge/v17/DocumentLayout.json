@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{893A28C2-2126-4BD5-9193-9D1CDD765366}|SolutionItems{893A28C2-2126-4BD5-9193-9D1CDD765366}|C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{893A28C2-2126-4BD5-9193-9D1CDD765366}|SolutionItems{893A28C2-2126-4BD5-9193-9D1CDD765366}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAC4AD6-98D2-434F-A533-DE7CDEFA48C8}|MeDirectTradingChallenge.Tests\\MeDirectTradingChallenge.Tests.csproj|c:\\projects\\medirecttradingchallenge\\medirecttradingchallenge\\medirecttradingchallenge.tests\\traderepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAC4AD6-98D2-434F-A533-DE7CDEFA48C8}|MeDirectTradingChallenge.Tests\\MeDirectTradingChallenge.Tests.csproj|solutionrelative:medirecttradingchallenge.tests\\traderepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071DDBAE-6822-46C5-BC87-0A87FFEEEB24}|MeDirectTradingChallenge.Infrastructure\\MeDirectTradingChallenge.Infrastructure.csproj|c:\\projects\\medirecttradingchallenge\\medirecttradingchallenge\\medirecttradingchallenge.infrastructure\\repositories\\traderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071DDBAE-6822-46C5-BC87-0A87FFEEEB24}|MeDirectTradingChallenge.Infrastructure\\MeDirectTradingChallenge.Infrastructure.csproj|solutionrelative:medirecttradingchallenge.infrastructure\\repositories\\traderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAC4AD6-98D2-434F-A533-DE7CDEFA48C8}|MeDirectTradingChallenge.Tests\\MeDirectTradingChallenge.Tests.csproj|c:\\projects\\medirecttradingchallenge\\medirecttradingchallenge\\medirecttradingchallenge.tests\\rabbitmqservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAC4AD6-98D2-434F-A533-DE7CDEFA48C8}|MeDirectTradingChallenge.Tests\\MeDirectTradingChallenge.Tests.csproj|solutionrelative:medirecttradingchallenge.tests\\rabbitmqservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071DDBAE-6822-46C5-BC87-0A87FFEEEB24}|MeDirectTradingChallenge.Infrastructure\\MeDirectTradingChallenge.Infrastructure.csproj|c:\\projects\\medirecttradingchallenge\\medirecttradingchallenge\\medirecttradingchallenge.infrastructure\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071DDBAE-6822-46C5-BC87-0A87FFEEEB24}|MeDirectTradingChallenge.Infrastructure\\MeDirectTradingChallenge.Infrastructure.csproj|solutionrelative:medirecttradingchallenge.infrastructure\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-10T18:11:00.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradeRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\MeDirectTradingChallenge.Infrastructure\\Repositories\\TradeRepository.cs",
+              "RelativeDocumentMoniker": "MeDirectTradingChallenge.Infrastructure\\Repositories\\TradeRepository.cs",
+              "ToolTip": "C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\MeDirectTradingChallenge.Infrastructure\\Repositories\\TradeRepository.cs",
+              "RelativeToolTip": "MeDirectTradingChallenge.Infrastructure\\Repositories\\TradeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:59:44.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradeRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\MeDirectTradingChallenge.Tests\\TradeRepositoryTests.cs",
+              "RelativeDocumentMoniker": "MeDirectTradingChallenge.Tests\\TradeRepositoryTests.cs",
+              "ToolTip": "C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\MeDirectTradingChallenge.Tests\\TradeRepositoryTests.cs",
+              "RelativeToolTip": "MeDirectTradingChallenge.Tests\\TradeRepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:59:31.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQServiceTests.cs",
+              "DocumentMoniker": "C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\MeDirectTradingChallenge.Tests\\RabbitMQServiceTests.cs",
+              "RelativeDocumentMoniker": "MeDirectTradingChallenge.Tests\\RabbitMQServiceTests.cs",
+              "ToolTip": "C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\MeDirectTradingChallenge.Tests\\RabbitMQServiceTests.cs",
+              "RelativeToolTip": "MeDirectTradingChallenge.Tests\\RabbitMQServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:52:08.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\MeDirectTradingChallenge.Infrastructure\\Services\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "MeDirectTradingChallenge.Infrastructure\\Services\\RabbitMQService.cs",
+              "ToolTip": "C:\\Projects\\MeDirectTradingChallenge\\MeDirectTradingChallenge\\MeDirectTradingChallenge.Infrastructure\\Services\\RabbitMQService.cs",
+              "RelativeToolTip": "MeDirectTradingChallenge.Infrastructure\\Services\\RabbitMQService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:48:56.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

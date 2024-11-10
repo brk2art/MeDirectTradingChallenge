@@ -1,0 +1,12 @@
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\obj\Debug\net8.0\MeDirectTradingChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\obj\Debug\net8.0\MeDirectTradingChallenge.Domain.AssemblyInfoInputs.cache
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\obj\Debug\net8.0\MeDirectTradingChallenge.Domain.AssemblyInfo.cs
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\obj\Debug\net8.0\MeDirectTradingChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\obj\Debug\net8.0\MeDirectTradingChallenge.Domain.sourcelink.json
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\bin\Debug\net8.0\MeDirectTradingChallenge.Domain.deps.json
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\bin\Debug\net8.0\MeDirectTradingChallenge.Domain.dll
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\bin\Debug\net8.0\MeDirectTradingChallenge.Domain.pdb
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\obj\Debug\net8.0\MeDirectTradingChallenge.Domain.dll
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\obj\Debug\net8.0\refint\MeDirectTradingChallenge.Domain.dll
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\obj\Debug\net8.0\MeDirectTradingChallenge.Domain.pdb
+C:\Projects\MeDirectTradingChallenge\MeDirectTradingChallenge\MeDirectTradingChallenge.Domain\obj\Debug\net8.0\ref\MeDirectTradingChallenge.Domain.dll

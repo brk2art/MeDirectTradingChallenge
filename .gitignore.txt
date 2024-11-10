@@ -1,0 +1,27 @@
+# Visual Studio specific files
+.vs/
+*.vsidx
+*.vscode/
+
+# Build directories
+bin/
+obj/
+
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Other temporary files
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db

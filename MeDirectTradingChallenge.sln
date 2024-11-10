@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeDirectTradingChallenge.API", "MeDirectTradingChallenge.API\MeDirectTradingChallenge.API.csproj", "{53FFBCB0-C70B-4F47-86BD-F9B51F12B7D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeDirectTradingChallenge.Console", "MeDirectTradingChallenge.Console\MeDirectTradingChallenge.Console.csproj", "{7F3089CA-145C-4CDE-8366-020516E1A5D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeDirectTradingChallenge.Domain", "MeDirectTradingChallenge.Domain\MeDirectTradingChallenge.Domain.csproj", "{41BF7D5A-82DF-45F8-8BA3-641BF2804269}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeDirectTradingChallenge.Infrastructure", "MeDirectTradingChallenge.Infrastructure\MeDirectTradingChallenge.Infrastructure.csproj", "{071DDBAE-6822-46C5-BC87-0A87FFEEEB24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{893A28C2-2126-4BD5-9193-9D1CDD765366}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeDirectTradingChallenge.Tests", "MeDirectTradingChallenge.Tests\MeDirectTradingChallenge.Tests.csproj", "{4CAC4AD6-98D2-434F-A533-DE7CDEFA48C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FFBCB0-C70B-4F47-86BD-F9B51F12B7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FFBCB0-C70B-4F47-86BD-F9B51F12B7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FFBCB0-C70B-4F47-86BD-F9B51F12B7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FFBCB0-C70B-4F47-86BD-F9B51F12B7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3089CA-145C-4CDE-8366-020516E1A5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3089CA-145C-4CDE-8366-020516E1A5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3089CA-145C-4CDE-8366-020516E1A5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3089CA-145C-4CDE-8366-020516E1A5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BF7D5A-82DF-45F8-8BA3-641BF2804269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BF7D5A-82DF-45F8-8BA3-641BF2804269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BF7D5A-82DF-45F8-8BA3-641BF2804269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BF7D5A-82DF-45F8-8BA3-641BF2804269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071DDBAE-6822-46C5-BC87-0A87FFEEEB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071DDBAE-6822-46C5-BC87-0A87FFEEEB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071DDBAE-6822-46C5-BC87-0A87FFEEEB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071DDBAE-6822-46C5-BC87-0A87FFEEEB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CAC4AD6-98D2-434F-A533-DE7CDEFA48C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAC4AD6-98D2-434F-A533-DE7CDEFA48C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAC4AD6-98D2-434F-A533-DE7CDEFA48C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAC4AD6-98D2-434F-A533-DE7CDEFA48C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D7C4E7-FE06-4744-A04C-E1ABF5A2B61D}
+	EndGlobalSection
+EndGlobal
